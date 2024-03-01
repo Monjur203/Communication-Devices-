@@ -61,8 +61,6 @@ To get started with this project, follow the steps below:
 
 ## Notes:
 
-- For any issues or suggestions, please open an issue on GitHub or contact [Your Email Address].
+- For any issues or suggestions, please open an issue on GitHub or contact [monjuralammolla203@gmail.com].
 
----
 
-Feel free to customize this README file according to your project's specific details and requirements.
