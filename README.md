@@ -30,7 +30,7 @@ To get started with this project, follow the steps below:
    - Connect your Android device to the ESP32 devices via Bluetooth.
    - Follow the instructions provided in the application to send encrypted messages.
 ## Important point
--	You must change the broadcastAddress[]. You should write the device mac address you want to sent data. example of a MAC address is: 00-B0-D0-63-C2-26  {0x00, 0xB0, 0xD0, 0x63, 0xC2, 0x26};
+-	You must change the broadcastAddress[]. You should write the device mac address you want to sent data. example of a MAC address is: 00-B0-D0-63-C2-26 -> {0x00, 0xB0, 0xD0, 0x63, 0xC2, 0x26};
 ![Screenshot](/Reference/1.png)
   
 -	You will find the aio file and apk file in app folder. If you want to make your custom app you can do it using mit app inventor. 
@@ -52,12 +52,8 @@ To get started with this project, follow the steps below:
 
 ## Contributors:
 
-- [Your Name]
-- [Any other contributors]
+- Manjur Alam Molla
 
-## License:
-
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments:
 
