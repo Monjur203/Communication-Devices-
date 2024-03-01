@@ -33,7 +33,7 @@ To get started with this project, follow the steps below:
    - Follow the instructions provided in the application to send encrypted messages and retrieve decrypted messages from the SD card.
 
 ## Important point
--	You must change the broadcastAddress[]. You should write the device mac address you want to sent data. example of a MAC address is: 00-B0-D0-63-C2-26  {0x00, 0xB0, 0xD0, 0x63, 0xC2, 0x26};
+-	You must change the broadcastAddress[]. You should write the device mac address you want to sent data. example of a MAC address is: 00-B0-D0-63-C2-26 -> {0x00, 0xB0, 0xD0, 0x63, 0xC2, 0x26};
 -	![Screenshot](/Reference/1.png)
 -	You will find the aio file and apk file in app folder. If you want to make your custom app you can do it using mit app inventor.
 -	![Screenshot](Reference/app.png)
@@ -58,13 +58,8 @@ To get started with this project, follow the steps below:
 
 ## Contributors:
 
-- [Your Name]
-- [Any other contributors]
-
-## License:
-
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
-
+- Manjur Alam Molla
+  
 ## Acknowledgments:
 
 - MIT App Inventor for providing a platform to develop the mobile application.
